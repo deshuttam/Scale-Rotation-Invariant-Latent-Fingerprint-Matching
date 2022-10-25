@@ -60,8 +60,8 @@ Requirements: Software
 * For NIST SD27 dataset, we use our previously developed `MINU-EXTRACTNET` framework for preprocessing operation (Refer: https://github.com/deshuttam/MINU-EXTRACTNET).   For extracting the minutiae points we use `FpMV Minutiae Viewer` software. 
 
 ## Installation
-* Download `FpMV Minutiae Viewer` using the link https://www.nist.gov/services-resources/software/fingerprint-minutiae-viewer-fpmv . Run `FpMV.exe` from bin folder.
-* Download `MINU-EXTRACTNET` framework from the link https://github.com/deshuttam/MINU-EXTRACTNET .
+* Download `FpMV Minutiae Viewer` using this link [FpMV Minutiae Viewer](https://www.nist.gov/services-resources/software/fingerprint-minutiae-viewer-fpmv) . Run `FpMV.exe` from bin folder.
+* Download `MINU-EXTRACTNET` framework from the link [MINU-EXTRACTNET](https://github.com/deshuttam/MINU-EXTRACTNET) .
 
 Download models and put into Models folder.
 * MINU-EXTRACTNET: [Googledrive](https://drive.google.com/file/d/1e-fvLhwvw8Sg1uVkM6oBT6QncWZgloap/view?usp=sharing)
