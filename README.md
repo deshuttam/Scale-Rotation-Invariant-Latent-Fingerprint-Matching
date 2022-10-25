@@ -50,3 +50,15 @@ YEAR={2020},
 URL={ https://doi.org/10.1007/s41870-020-00508-7 }, DOI={ 10.1007/s41870-020-00508-7 }, ISSN={2511-2112}, 
 }
 
+Requirements: Software
+* FpMV minutiae viewer
+* `Python 2.7 Tensorflow 1.7.0 Keras 2.1.6`
+* Visual Studio
+
+## Preprocessing and Feature Extraction
+* For FVC 2004 dataset, we utilize NIST’s `FpMV Minutiae Viewer` software. x, y minutiae coordinates are obtained and minutiae image is constructed.
+* For NIST SD27 dataset, we use our previously developed `MINU-EXTRACTNET` framework for preprocessing operation [ https://github.com/deshuttam/MINU-EXTRACTNET ]. For extracting the minutiae points we use `FpMV Minutiae Viewer` software. 
+
+## Installation
+
+https://www.nist.gov/services-resources/software/fingerprint-minutiae-viewer-fpmv
