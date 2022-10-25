@@ -36,7 +36,8 @@ Hash index is calculated using the ‘HTindex’ formula. Here, MAV is the one-d
 
 The repository includes:
 
-* Source code for Fingerprint Preprocessing and Feature Extraction.
+* Source code for Fingerprint Preprocessing.
+* Source code for Feature Extraction.
 * Source code for Latent minutiae representation, Fingerprint Hash-Table Construction and Matching.
 * Visual Studio code, C, C++, Shell Script codes.
 
