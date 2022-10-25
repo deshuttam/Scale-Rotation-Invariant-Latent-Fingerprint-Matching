@@ -64,6 +64,6 @@ Requirements: Software
 * Download `MINU-EXTRACTNET` framework from the link https://github.com/deshuttam/MINU-EXTRACTNET .
 
 Download models and put into Models folder.
-* MINU-EXTRACTNET: [Googledrive] (https://drive.google.com/file/d/1e-fvLhwvw8Sg1uVkM6oBT6QncWZgloap/view?usp=sharing)
-* CoarseNet: [Googledrive] (https://drive.google.com/file/d/1bU3T-XQRlKy6C77e5eD-DOD_QlNlAIjR/view?usp=sharing)
-* FineNet: [Googledrive] (https://drive.google.com/file/d/1rQw6hs-3hv_7WqJQ8ZYhJhi4laa-9qbY/view?usp=sharing)
+* MINU-EXTRACTNET: [Googledrive](https://drive.google.com/file/d/1e-fvLhwvw8Sg1uVkM6oBT6QncWZgloap/view?usp=sharing)
+* CoarseNet: [Googledrive](https://drive.google.com/file/d/1bU3T-XQRlKy6C77e5eD-DOD_QlNlAIjR/view?usp=sharing)
+* FineNet: [Googledrive](https://drive.google.com/file/d/1rQw6hs-3hv_7WqJQ8ZYhJhi4laa-9qbY/view?usp=sharing)
