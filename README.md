@@ -67,3 +67,8 @@ Download models and put into Models folder.
 * MINU-EXTRACTNET: [Googledrive](https://drive.google.com/file/d/1e-fvLhwvw8Sg1uVkM6oBT6QncWZgloap/view?usp=sharing)
 * CoarseNet: [Googledrive](https://drive.google.com/file/d/1bU3T-XQRlKy6C77e5eD-DOD_QlNlAIjR/view?usp=sharing)
 * FineNet: [Googledrive](https://drive.google.com/file/d/1rQw6hs-3hv_7WqJQ8ZYhJhi4laa-9qbY/view?usp=sharing)
+
+## Usage
+* MINU-EXTRACTNET: MINU-EXTRACTNET.ipynb can be called to segment and enhance (preprocess) the images.
+* `FpMV.exe` can be called to extract minutiae features from the preprocessed images obtained from `MINU-EXTRACTNET`.
+*  is called to generate minutiae image.
