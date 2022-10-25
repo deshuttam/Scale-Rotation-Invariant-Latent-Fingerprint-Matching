@@ -33,3 +33,13 @@ CLMP utilizes a fixed-length latent minutia descriptor based on its minutiae nei
 Hash index is calculated using the ‘HTindex’ formula. Here, MAV is the one-dimensional minutiae arrangement vector of length mC4, ‘k ‘is the quantization level used to discretize the IAvg values, and ‘HTsize’ is the size of the hash table. The hash value is used to identify the query fingerprint and matching results are obtained.
 ![image](https://user-images.githubusercontent.com/107185323/197678143-df35567c-90ec-4e04-83b0-ac699ae908f1.png)
 
+
+The repository includes:
+
+* Source code for Fingerprint Preprocessing and Feature Extraction.
+* Matlab code.
+* Source code for Latent minutiae representation, Fingerprint Hash-Table Construction and Matching.
+* Visual Studio code, C, C++, Shell Script codes.
+
+### Citing
+
