@@ -37,7 +37,6 @@ Hash index is calculated using the ‘HTindex’ formula. Here, MAV is the one-d
 The repository includes:
 
 * Source code for Fingerprint Preprocessing and Feature Extraction.
-* Matlab code.
 * Source code for Latent minutiae representation, Fingerprint Hash-Table Construction and Matching.
 * Visual Studio code, C, C++, Shell Script codes.
 
@@ -71,4 +70,5 @@ Download models and put into Models folder.
 ## Usage
 * MINU-EXTRACTNET: MINU-EXTRACTNET.ipynb can be called to segment and enhance (preprocess) the images.
 * `FpMV.exe` can be called to extract minutiae features from the preprocessed images obtained from `MINU-EXTRACTNET`.
-*  is called to generate minutiae image.
+* These minutiae points should be represented in the form of a image.
+* Run `server.exe`, `Run client.exe` command to turn the camera on to perfrom matching. Refer to this work [Experimental Study](https://github.com/deshuttam/Minutiae-Clustering-based-Latent-Fingerprint-Matching-Systems)
