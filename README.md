@@ -62,4 +62,8 @@ Requirements: Software
 ## Installation
 * Download `FpMV Minutiae Viewer` using the link https://www.nist.gov/services-resources/software/fingerprint-minutiae-viewer-fpmv . Run `FpMV.exe` from bin folder.
 * Download `MINU-EXTRACTNET` framework from the link https://github.com/deshuttam/MINU-EXTRACTNET .
-* 
+
+Download models and put into Models folder.
+* MINU-EXTRACTNET:
+* CoarseNet:
+* FineNet: 
