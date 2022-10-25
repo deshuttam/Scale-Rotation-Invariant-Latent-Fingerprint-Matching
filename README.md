@@ -42,4 +42,11 @@ The repository includes:
 * Visual Studio code, C, C++, Shell Script codes.
 
 ### Citing
+@ARTICLE{ 10.1007/s41870-020-00508-7, AUTHOR={Deshpande, Uttam U. et al.,},
+TITLE={Automatic latent fingerprint identification system using scale and rotation invariant minutiae features},
+JOURNAL={International Journal of Information Technology},
+VOLUME={14},
+YEAR={2020},
+URL={ https://doi.org/10.1007/s41870-020-00508-7 }, DOI={ 10.1007/s41870-020-00508-7 }, ISSN={2511-2112}, 
+}
 
