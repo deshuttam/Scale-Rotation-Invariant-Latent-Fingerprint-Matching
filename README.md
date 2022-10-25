@@ -56,7 +56,7 @@ Requirements: Software
 
 ## Preprocessing and Feature Extraction
 * For FVC 2004 dataset, we utilize NIST’s `FpMV Minutiae Viewer` software. x, y minutiae coordinates are obtained and minutiae image is constructed.
-* For NIST SD27 dataset, we use our previously developed `MINU-EXTRACTNET` framework for preprocessing operation (Refer: https://github.com/deshuttam/MINU-EXTRACTNET).   For extracting the minutiae points we use `FpMV Minutiae Viewer` software. 
+* For NIST SD27 dataset, we use our previously developed `MINU-EXTRACTNET` framework for preprocessing operation [Refer](https://github.com/deshuttam/MINU-EXTRACTNET).   For extracting the minutiae points we use `FpMV Minutiae Viewer` software. 
 
 ## Hash Table Construction and Matching
 * Place the minutia image obtained in the previous step into jpg folder.
