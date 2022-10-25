@@ -20,3 +20,16 @@ Query image from FVC2004 is sent to the FpMV tool for minutiae extraction. The o
 Similarly, a query image from NIST SD27 is pre-processed [12] and filtered to obtain the skeleton images. The skeleton image is further enhanced before extracting features using Gabor filters. Later, it is sent for matching. 
 
 ![image](https://user-images.githubusercontent.com/107185323/197676160-006ebfa3-6399-462b-a472-4df7d81789f0.png)
+
+### Latent minutiae similarity (LMS) algorithm
+A fixed-length distictive latent minutia descriptor is obtained from three minutiae neighbors.
+![image](https://user-images.githubusercontent.com/107185323/197677197-5a910c84-4a64-4bc4-9b4e-25d72c4481fd.png)
+
+### Clustered latent minutiae pattern (CLMP) algorithm
+CLMP utilizes a fixed-length latent minutia descriptor based on its minutiae neighborhood similar to the LMS algorithm. This algorithm utilizes five minutiae points around a reference minutia to determine the fingerprint similarity. 
+![image](https://user-images.githubusercontent.com/107185323/197677435-210ea71b-6f02-48b3-8eca-5dc5dceb744c.png)
+
+### Fingerprint Hash-Table and Matching
+Hash index is calculated using the ‘HTindex’ formula. Here, MAV is the one-dimensional minutiae arrangement vector of length mC4, ‘k ‘is the quantization level used to discretize the IAvg values, and ‘HTsize’ is the size of the hash table. The hash value is used to identify the query fingerprint and matching results are obtained.
+![image](https://user-images.githubusercontent.com/107185323/197678143-df35567c-90ec-4e04-83b0-ac699ae908f1.png)
+
